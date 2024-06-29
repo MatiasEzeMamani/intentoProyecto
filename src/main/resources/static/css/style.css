@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+
+*{
+	margin : 0;
+	padding: 0;
+	border : 0;	
+}
+
+header {
+	background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.acciones {
+	display: flex;
+    gap: 8px;
+}
